@@ -1,6 +1,6 @@
 # 📊 Customer Retention & Churn Analysis Dashboard | Power BI
 
-![Dashboard Preview](Dashboard_Screenshot.png)
+![Dashboard Preview]("C:\Users\ksdha\OneDrive\Pictures\Screenshots\Screenshot 2026-08-04 142624.png")
 
 ## 📌 Project Overview
 
@@ -124,7 +124,7 @@ Analyzes the relationship between customer tenure and monthly spending behavior.
 
 # 📷 Dashboard Preview
 
-![Customer Churn Dashboard](Dashboard_Screenshot.png)
+![Customer Churn Dashboard]("C:\Users\ksdha\OneDrive\Pictures\Screenshots\Screenshot 2026-08-04 142624.png")
 
 ---
 
